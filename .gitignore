@@ -1,1 +1,4 @@
 .ipynb_checkpoints/
+HW-2-3/data/*.csv
+*/.ipynb_checkpoints/
+kaggle/data/
